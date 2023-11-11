@@ -27,9 +27,13 @@ input {
     border-top: 0;
     border-left: 0;
     border-right: 0;
-    padding-left: 10px;
-    padding-right: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
     border-color: hsla(0, 0%, 50%, 0.21)
+}
+
+input:not(select) {
+    background-color: antiquewhite;
 }
 
 #mainDiv, #secondDiv {
