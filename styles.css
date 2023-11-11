@@ -4,9 +4,10 @@
 
 .title-caption {
     padding-left: 15px;
-    color: darkblue;
+    color: sienna;
     font-style: italic;
     font-size: 15px;
+    font-weight: bold;
 }
 
 hr {
